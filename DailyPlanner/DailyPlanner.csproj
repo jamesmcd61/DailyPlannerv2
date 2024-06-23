@@ -13,4 +13,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.13" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DailyPlannerV2\Planner\" />
+    <Folder Include="DailyPlannerV2\Register\" />
+  </ItemGroup>
+
 </Project>

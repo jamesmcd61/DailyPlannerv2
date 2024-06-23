@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q3qM5cP0xAmaX+1IVuoRMdf7shkFQ3+NYiFqChY79iI=",
+  "Hash": "PH7tx+FfnYXXUO7hoW30Ugn+AOKRBkMWXD69ki7ARiA=",
   "Source": "DailyPlanner",
   "BasePath": "_content/DailyPlanner",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DailyPlanner\\wwwroot",
       "Source": "DailyPlanner",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\css\\site.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\favicon.ico",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\js\\site.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\css\\app.30790115300ab27614ce176899523b62.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\css\\app.30790115300ab27614ce176899523b62.css",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/css/app.30790115300ab27614ce176899523b62.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\app.30790115300ab27614ce176899523b62.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\css\\app.30790115300ab27614ce176899523b62.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\css\\app.30790115300ab27614ce176899523b62.css.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/css/app.30790115300ab27614ce176899523b62.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\app.30790115300ab27614ce176899523b62.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\js\\app.b22ce679862c47a75225.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\js\\app.b22ce679862c47a75225.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/js/app.b22ce679862c47a75225.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\app.b22ce679862c47a75225.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\js\\app.b22ce679862c47a75225.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\js\\app.b22ce679862c47a75225.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/js/app.b22ce679862c47a75225.js.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\app.b22ce679862c47a75225.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\js\\manifest.2ae2e69a05c33dfc65f8.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\js\\manifest.2ae2e69a05c33dfc65f8.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/js/manifest.2ae2e69a05c33dfc65f8.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\manifest.2ae2e69a05c33dfc65f8.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\js\\manifest.2ae2e69a05c33dfc65f8.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\js\\manifest.2ae2e69a05c33dfc65f8.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/js/manifest.2ae2e69a05c33dfc65f8.js.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\manifest.2ae2e69a05c33dfc65f8.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\js\\vendor.5757ca66c9a222917873.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\js\\vendor.5757ca66c9a222917873.js",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/js/vendor.5757ca66c9a222917873.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\vendor.5757ca66c9a222917873.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\static\\js\\vendor.5757ca66c9a222917873.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\static\\js\\vendor.5757ca66c9a222917873.js.map",
       "SourceId": "DailyPlanner",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlanner\\DailyPlanner\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\DailyPlanner\\wwwroot\\",
       "BasePath": "_content/DailyPlanner",
       "RelativePath": "static/js/vendor.5757ca66c9a222917873.js.map",
       "AssetKind": "All",
