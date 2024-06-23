@@ -5,7 +5,7 @@
     <title>Login</title>
 </head>
 <body>
-    <form @submit.prevent="formSubmit()">
+    <form id="login" action="Register.html">
         <div class="form-control">
             <label for="userName">UserName</label>
             <input ref="userName" name="userName" type="text" />
@@ -16,14 +16,23 @@
         </div>
         <a href="Register.html">Register</a>
         <div>
-            <button>Login</button>
+            <button onclick="formSubmit()">Login</button>
         </div>
     </form>
 </body>
 </html>
 
 <script>
-
+    function formSubmit() {
+        const form = document.getElementById('login');
+        form.addEventListener('submit', (event) => {
+            event.preventDefault();
+            console.log("here");
+            form.submit();
+            // Perform validation and processing here
+        });
+        console.log("here2");
+    }
 </script>
 
 <style>
