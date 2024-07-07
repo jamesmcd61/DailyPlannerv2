@@ -6,7 +6,7 @@
     <title>Login</title>
 </head>
     <body>
-        <form id="login">
+        <form id="login" action="Planner">
             <div class="form-control">
                 <label for="userName">UserName</label>
                 <input ref="userName" name="userName" type="text" />
@@ -37,7 +37,7 @@
                 userPassword: password[0].value
             },
             function (data, status) {
-                console.log(status);
+                formSubmit();
             });
         });
     }
