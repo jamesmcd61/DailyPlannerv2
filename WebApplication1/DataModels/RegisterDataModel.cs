@@ -1,9 +1,12 @@
-﻿namespace WebApplication1.Models
+﻿namespace WebApplication1.DataModels
 {
     using System.ComponentModel.DataAnnotations;
 
-    public class RegisterModel
+    public class RegisterDataModel
     {
+        [Key]
+        public int Id { get; set; }
+
         public string FirstName { get; set; }
 
         public string LastName { get; set; }

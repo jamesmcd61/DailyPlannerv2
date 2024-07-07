@@ -1,7 +1,7 @@
 ﻿namespace WebApplication1.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
-
+    using WebApplication1.DataModels;
     using WebApplication1.Models;
     using WebApplication1.Services;
 
@@ -20,7 +20,7 @@
         }
 
         [HttpPost]
-        public async Task<object> Register([FromBody] RegisterModel register)
+        public async Task<object> Register([FromBody] RegisterDataModel register)
         {
             if (await this.authenticationService.HasRegisteredAsync(register))
             {

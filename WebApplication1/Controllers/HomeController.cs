@@ -2,7 +2,7 @@
 {
     using Microsoft.AspNetCore.Mvc;
 
-    using WebApplication1.Models;
+    using WebApplication1.DataModels;
     using WebApplication1.Services;
 
     public class HomeController : Controller
@@ -24,7 +24,7 @@
         }
 
         [HttpPost]
-        public async Task<object> Login([FromBody] LoginModel login)
+        public async Task<object> Login([FromForm] LoginDataModel login)
         {
             if (await this.authenticationService.CanLoginAsync(login))
             {

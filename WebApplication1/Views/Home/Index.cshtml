@@ -15,7 +15,7 @@
                 <label for="userPassword">Password</label>
                 <input ref="userPassword" name="password" type="text" />
             </div>
-            <a href="Register.html">Register</a>
+            <a href="@Url.Action("index", "Register")">Register</a>
             <div>
                 <button onclick="formSubmit()">Login</button>
             </div>
@@ -33,8 +33,8 @@
 
             $.post('https://localhost:7027/home/Login',
             {
-                Username: userName[0].value.toString(),
-                UserPassword: password[0].value.toString()
+                userName: userName[0].value,
+                userPassword: password[0].value
             },
             function (data, status) {
                 console.log(status);

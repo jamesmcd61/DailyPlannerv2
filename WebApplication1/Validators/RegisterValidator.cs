@@ -2,9 +2,9 @@
 {
     using FluentValidation;
 
-    using WebApplication1.Models;
+    using WebApplication1.DataModels;
 
-    public class RegisterValidator : AbstractValidator<RegisterModel>
+    public class RegisterValidator : AbstractValidator<RegisterDataModel>
     {
         public RegisterValidator() 
         {

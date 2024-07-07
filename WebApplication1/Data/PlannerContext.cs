@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1.Data
 {
-    using WebApplication1.Models;
+    using WebApplication1.DataModels;
 
     using Microsoft.EntityFrameworkCore;
 
@@ -10,17 +10,17 @@
         {
         }
 
-        public DbSet<LoginModel> Login { get; set; } = null!;
+        public DbSet<LoginDataModel> Login { get; set; } = null!;
 
-        public DbSet<RegisterModel> Register { get; set; } = null!;
+        public DbSet<RegisterDataModel> Register { get; set; } = null!;
 
-        public DbSet<TodoStickyNote> TodoStickyNote { get; set; } = null!;
+        public DbSet<TodoStickyNoteDataModel> TodoStickyNote { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<LoginModel>().ToTable("UserTable");
-            modelBuilder.Entity<RegisterModel>().ToTable("UserInformation");
-            modelBuilder.Entity<TodoStickyNote>().ToTable("ToDoMessages");
+            modelBuilder.Entity<LoginDataModel>().ToTable("UserTable");
+            modelBuilder.Entity<RegisterDataModel>().ToTable("UserInformation");
+            modelBuilder.Entity<TodoStickyNoteDataModel>().ToTable("ToDoMessages");
         }
     }
 }

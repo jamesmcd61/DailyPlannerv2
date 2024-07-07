@@ -1,9 +1,12 @@
-﻿namespace WebApplication1.Models
+﻿namespace WebApplication1.DataModels
 {
     using System.ComponentModel.DataAnnotations;
 
-    public class LoginModel
+    public class LoginDataModel
     {
+        [Key]
+        public int UserId { get; set; }
+        
         [Required]
         public string UserName { get; set; }
 

@@ -2,9 +2,9 @@
 {
     using FluentValidation;
 
-    using WebApplication1.Models;
+    using WebApplication1.DataModels;
 
-    public class LoginValidator : AbstractValidator<LoginModel>
+    public class LoginValidator : AbstractValidator<LoginDataModel>
     {
         public LoginValidator() 
         {

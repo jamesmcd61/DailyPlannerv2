@@ -3,13 +3,14 @@
     using Microsoft.Data.SqlClient;
 
     using WebApplication1.Data;
+    using WebApplication1.DataModels;
     using WebApplication1.Models;
 
     public interface IPlannerService
     {
         List<TodoStickyNote> GetPlannedTodoForToday(DateTime date);
 
-        Task<bool> SaveTodoStickyNoteAsync(TodoStickyNote todoStickyNote);
+        Task<bool> SaveTodoStickyNoteAsync(TodoStickyNoteDataModel todoStickyNote);
     }
 
     public class PlannerService : IPlannerService
@@ -45,9 +46,9 @@
             return data;
         }
 
-        public async Task<bool> SaveTodoStickyNoteAsync(TodoStickyNote todoStickyNote)
+        public async Task<bool> SaveTodoStickyNoteAsync(TodoStickyNoteDataModel todoStickyNote)
         {
-            var todoNote = new TodoStickyNote()
+            var todoNote = new TodoStickyNoteDataModel()
             {
                 Message = this.encryptionService.Encryption(todoStickyNote.Message),
                 Date = todoStickyNote.Date
