@@ -6,7 +6,7 @@
     <title>Login</title>
 </head>
     <body>
-        <form id="login" action="Planner">
+        <form id="login" action="/Planner">
             <div class="form-control">
                 <label for="userName">UserName</label>
                 <input ref="userName" name="userName" type="text" />
@@ -28,6 +28,7 @@
         const form = document.getElementById('login');
         const userName = document.getElementsByName('userName');
         const password = document.getElementsByName('password');
+
         form.addEventListener('submit', (event) => {
             event.preventDefault();
 
@@ -37,7 +38,7 @@
                 userPassword: password[0].value
             },
             function (data, status) {
-                formSubmit();
+                document.getElementById('login').submit();
             });
         });
     }

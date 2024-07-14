@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7u2IiQwovBgaqT7DaqjPoRZMO7kcwhuLw8Vaaf8RnQ7xP3pmWzWsteN/HJS0budvfzqePY2a9KF2BvkIvPH8nw==",
+  "dgSpecHash": "UT1Fo20/co6O090yVm6wRJWUIMuUAjqMcr7J/PB1Cx/DDEdWAXceKB4gCIinfsHr6lWC14NhRHJu5Rz5t2Bf5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\jamesmcd61\\DailyPlannerv2\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\jamesmcd61\\DailyPlannerv2\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
