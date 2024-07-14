@@ -1,1 +1,59 @@
-﻿<h1>Planner</h1>
+﻿@model WebApplication1.Models.Planner
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <meta charset="utf-8" />
+    <title>Login</title>
+</head>
+<body>
+    <h1>Planner</h1>
+
+    <div class="center hideform">
+        <button id="close" style="float: right;">X</button>
+        <form>
+            Todo:<br>
+            <input type="text" name="todo">
+            <br>
+            Date:<br>
+            <input type="datetime" name="date" value="@DateTime.Now">
+            <br><br>
+            <button onclick="AddToDo()">Submit</button>
+        </form>
+    </div>
+    <button id="show">Add ToDo</button>
+</body>
+</html>
+
+<script>
+    $('#show').on('click', function () {
+        $('.center').show();
+        $(this).hide();
+    })
+
+    $('#close').on('click', function () {
+        $('.center').hide();
+        $('#show').show();
+    })
+
+    function AddToDo(){
+        event.preventDefault();
+        console.log('Here');
+    }
+</script>
+
+
+<style>
+    .center {
+        margin: auto;
+        width: 60%;
+        padding: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .hideform {
+        display: none;
+    }
+</style>
