@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.DataModels;
 using WebApplication1.Models;
 using WebApplication1.Services;
 
@@ -22,6 +23,29 @@ namespace WebApplication1.Controllers
                 Todos = todos
             };
             return View(vm);
+        }
+
+        [HttpPost]
+        public object GetTodoForDay([FromBody] MountPostPlanner mountPostPlanner)
+        {
+            var todoData = this.plannerService.GetPlannedTodoForToday(mountPostPlanner.Date);
+            if (todoData.Any())
+            {
+                return todoData;
+            }
+
+            return Ok();
+        }
+
+        [HttpPost]
+        public async Task<object> SaveTodoStickyNote([FromForm] TodoStickyNoteDataModel todoStickyNote)
+        {
+            if (await this.plannerService.SaveTodoStickyNoteAsync(todoStickyNote))
+            {
+                return Ok();
+            }
+
+            return BadRequest();
         }
     }
 }

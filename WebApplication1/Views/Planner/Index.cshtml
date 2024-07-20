@@ -40,7 +40,21 @@
 
     function AddToDo(){
         event.preventDefault();
-        console.log('Here');
+        const todo = document.getElementsByName('todo');
+        const date = document.getElementsByName('date');
+
+        console.log(todo);
+        console.log(date);
+
+        $.post('https://localhost:7027/planner/SaveTodoStickyNote',
+        {
+            Message: todo[0].value,
+            Date: date[0].value
+        },
+        function (data, status) {
+            $('.center').hide();
+            $('#show').show();
+        });
     }
 </script>
 
