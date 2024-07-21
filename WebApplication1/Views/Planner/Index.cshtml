@@ -24,6 +24,14 @@
         </form>
     </div>
     <button id="show">Add ToDo</button>
+
+    <div style="align-content:end; position:absolute">
+        <label for="datetime" style="padding-right:5px;background-color:white">Date</label>
+        <input type="datetime-local" value="defaultDate" onchange="DateChange()" />
+    </div>
+
+    <div id="PlannerBoard">
+    </div>
 </body>
 </html>
 
@@ -37,6 +45,23 @@
         $('.center').hide();
         $('#show').show();
     })
+
+    GetTodos('@DateTime.Now');
+
+    function GetTodos(date){
+        $.post('https://localhost:7027/planner/GetTodoForDay',
+        {
+            Date: date
+        },
+        function (data, status) {
+            console.log('here');
+            console.log(data);
+        });
+    }
+
+    function DateChange() {
+        console.log('here2');
+    }
 
     function AddToDo(){
         event.preventDefault();

@@ -26,7 +26,7 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost]
-        public object GetTodoForDay([FromBody] MountPostPlanner mountPostPlanner)
+        public object GetTodoForDay([FromForm] MountPostPlanner mountPostPlanner)
         {
             var todoData = this.plannerService.GetPlannedTodoForToday(mountPostPlanner.Date);
             if (todoData.Any())
