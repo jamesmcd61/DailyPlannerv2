@@ -54,9 +54,33 @@
             Date: date
         },
         function (data, status) {
-            console.log('here');
             console.log(data);
+            LoadBoard(data);
         });
+    }
+
+    function LoadBoard(data){
+        $.post('https://localhost:7027/planner/TodoMessageBoard',
+        {
+                Data: JSON.stringify(data)
+        },
+        function (data, status) {
+            $('#PlannerBoard').html(d);
+        });
+
+        //$.ajax({
+        //    type: "POST",
+        //    url: 'https://localhost:7027/planner/TodoMessageBoard',
+        //    data: JSON.stringify(data),
+        //    contentType: "application/json; charset=utf-8",
+        //    dataType: "json",
+        //    error: function () {
+        //        alert("Error");
+        //    },
+        //    success: function () {
+        //        $('#PlannerBoard').html(d);
+        //    }
+        //});
     }
 
     function DateChange() {
@@ -67,9 +91,6 @@
         event.preventDefault();
         const todo = document.getElementsByName('todo');
         const date = document.getElementsByName('date');
-
-        console.log(todo);
-        console.log(date);
 
         $.post('https://localhost:7027/planner/SaveTodoStickyNote',
         {

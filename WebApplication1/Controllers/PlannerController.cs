@@ -47,5 +47,11 @@ namespace WebApplication1.Controllers
 
             return BadRequest();
         }
+
+        [HttpPost]
+        public IActionResult TodoMessageBoard([FromForm] IEnumerable<TodoStickyNote> plannerData)
+        {
+            return PartialView("_TodoMessageBoard", plannerData);
+        }
     }
 }
