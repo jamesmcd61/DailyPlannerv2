@@ -10,25 +10,27 @@
 </head>
 <body>
     <h1>Planner</h1>
+    <div style="padding:25px">
+        <div class="center hideform">
+            <button id="close" style="float: right;">X</button>
+            <form>
+                Todo:<br>
+                <input type="text" name="todo">
+                <br>
+                Date:<br>
+                <input type="datetime" name="date" value="@DateTime.Now">
+                <br><br>
+                <button onclick="AddToDo()">Submit</button>
+            </form>
+        </div>
+        <button id="show">Add ToDo</button>
 
-    <div class="center hideform">
-        <button id="close" style="float: right;">X</button>
-        <form>
-            Todo:<br>
-            <input type="text" name="todo">
-            <br>
-            Date:<br>
-            <input type="datetime" name="date" value="@DateTime.Now">
-            <br><br>
-            <button onclick="AddToDo()">Submit</button>
-        </form>
+        <div style="align-content:end; position:absolute">
+            <label for="datetime" style="padding-right:5px;background-color:white">Date</label>
+            <input type="datetime-local" value="defaultDate" onchange="DateChange()" />
+        </div>
     </div>
-    <button id="show">Add ToDo</button>
 
-    <div style="align-content:end; position:absolute">
-        <label for="datetime" style="padding-right:5px;background-color:white">Date</label>
-        <input type="datetime-local" value="defaultDate" onchange="DateChange()" />
-    </div>
 
     <div id="PlannerBoard">
     </div>
@@ -60,7 +62,6 @@
     }
 
     function LoadBoard(data){
-        console.log(data[0].message);
         $.post('https://localhost:7027/planner/TodoMessageBoard',
         {
             Message: data[0].message,
