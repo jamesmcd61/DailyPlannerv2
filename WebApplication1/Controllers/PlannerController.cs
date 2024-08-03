@@ -49,7 +49,7 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost]
-        public IActionResult TodoMessageBoard([FromForm] IEnumerable<TodoStickyNote> plannerData)
+        public IActionResult TodoMessageBoard([FromForm] TodoStickyNote plannerData)
         {
             return PartialView("_TodoMessageBoard", plannerData);
         }

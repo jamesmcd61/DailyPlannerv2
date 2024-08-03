@@ -60,27 +60,15 @@
     }
 
     function LoadBoard(data){
+        console.log(data[0].message);
         $.post('https://localhost:7027/planner/TodoMessageBoard',
         {
-                Data: JSON.stringify(data)
+            Message: data[0].message,
+            Date: data[0].date
         },
         function (data, status) {
-            $('#PlannerBoard').html(d);
+            $('#PlannerBoard').html(data);
         });
-
-        //$.ajax({
-        //    type: "POST",
-        //    url: 'https://localhost:7027/planner/TodoMessageBoard',
-        //    data: JSON.stringify(data),
-        //    contentType: "application/json; charset=utf-8",
-        //    dataType: "json",
-        //    error: function () {
-        //        alert("Error");
-        //    },
-        //    success: function () {
-        //        $('#PlannerBoard').html(d);
-        //    }
-        //});
     }
 
     function DateChange() {
