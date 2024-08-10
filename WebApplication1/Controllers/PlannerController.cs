@@ -49,7 +49,8 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost]
-        public IActionResult TodoMessageBoard([FromForm] TodoStickyNote plannerData)
+        [Route("board")]
+        public IActionResult TodoMessageBoard([FromForm] Planner plannerData)
         {
             return PartialView("_TodoMessageBoard", plannerData);
         }

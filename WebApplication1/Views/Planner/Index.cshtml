@@ -27,7 +27,7 @@
 
         <div style="align-content:end; position:absolute">
             <label for="datetime" style="padding-right:5px;background-color:white">Date</label>
-            <input type="datetime-local" value="defaultDate" onchange="DateChange()" />
+            <input type="datetime-local" name="dateChooser" value="defaultDate" onchange="DateChange()" />
         </div>
     </div>
 
@@ -62,10 +62,10 @@
     }
 
     function LoadBoard(data){
-        $.post('https://localhost:7027/planner/TodoMessageBoard',
+        $.post('https://localhost:7027/board',
         {
-            Message: data[0].message,
-            Date: data[0].date
+            Day: '@DateTime.Now',
+            Todos: data
         },
         function (data, status) {
             $('#PlannerBoard').html(data);
@@ -74,6 +74,8 @@
 
     function DateChange() {
         console.log('here2');
+        const date = document.getElementsByName('dateChooser');
+        GetTodos(date[0].value);
     }
 
     function AddToDo(){
@@ -89,6 +91,7 @@
         function (data, status) {
             $('.center').hide();
             $('#show').show();
+            GetTodos('@DateTime.Now');
         });
     }
 </script>

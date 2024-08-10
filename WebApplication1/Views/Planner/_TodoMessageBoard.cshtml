@@ -1,15 +1,18 @@
-﻿@model WebApplication1.Models.TodoStickyNote
+﻿@model WebApplication1.Models.Planner
 
-<div class="card">
-    <div class="container">
-        <h4><b>@Model.Date</b></h4>
-        <p>@Model.Message</p>
+@foreach (var item in Model.Todos)
+{
+    <div class="card">
+        <div class="container">
+            <h4><b>@item.Date</b></h4>
+            <p>@item.Message</p>
+        </div>
     </div>
-</div>
+}
 
 <script>
     console.log('OnBoard');
-    console.log('@Model.Message');
+    console.log('@Model.Todos');
 </script>
 
 <style>
