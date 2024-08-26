@@ -56,7 +56,6 @@
             Date: date
         },
         function (data, status) {
-            console.log(data);
             LoadBoard(data);
         });
     }
@@ -73,7 +72,6 @@
     }
 
     function DateChange() {
-        console.log('here2');
         const date = document.getElementsByName('dateChooser');
         GetTodos(date[0].value);
     }

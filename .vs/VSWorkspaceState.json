@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\WebApplication1",
+    "\\WebApplication1\\Controllers",
     "\\WebApplication1\\Views",
     "\\WebApplication1\\Views\\Planner"
   ],
-  "SelectedNode": "\\WebApplication1\\Views\\Planner\\_TodoMessageBoard.cshtml",
+  "SelectedNode": "\\WebApplication1\\Controllers\\PlannerController.cs",
   "PreviewInSolutionExplorer": false
 }
